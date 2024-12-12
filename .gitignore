@@ -5,3 +5,6 @@ __pycache__
 /static
 src/db.sqlite3
 src/static
+.coverage
+coverage_examples
+
